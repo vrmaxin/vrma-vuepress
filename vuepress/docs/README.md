@@ -1,14 +1,14 @@
 ---
 home: true
 # heroImage: /hero.png
-actionText: 首页 →
+actionText: 了解我 →
 actionLink: /zh/guide/
 features:
-- title: 简洁至上
-  details: 以 Markdown 为中心的项目结构，以最少的配置帮助你专注于写作。
-- title: Vue驱动
-  details: 享受 Vue + webpack 的开发体验，在 Markdown 中使用 Vue 组件，同时可以使用 Vue 来开发自定义主题。
-- title: 高性能
-  details: VuePress 为每个页面预渲染生成静态的 HTML，同时在页面被加载的时候，将作为 SPA 运行。
-footer: MIT Licensed | Copyright © 2018-present Evan You
+- title: 计算机
+  details: 作为自己的专业和职业领域，我会记录一些这方面的经验和积累。
+- title: 阿卡贝拉
+  details: 作为自己的社团活动和业余爱好，我会记录一些这方面的经历和分享。
+- title: 音视频
+  details: 作为辅助阿卡贝拉后期工作的工具，我会把一些成果展现出来。
+footer: MIT Licensed | Copyright © 2019-present Vrma Xin
 ---

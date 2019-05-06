@@ -1,54 +1,60 @@
 // .vuepress/config.js
 module.exports = {
+  title: 'Vrma Xin',
+  description: '这是一个属于我的一个空间',
   themeConfig: {
     // navbar: false,
     nav: [{
-        text: 'Home',
+        text: '首页',
         link: '/'
       },
       {
-        text: 'Guide',
+        text: '计算机',
         link: '/guide/'
       },
       {
-        text: 'External',
-        link: 'https://google.com'
+        text: '阿卡贝拉',
+        link: '/guide/'
+      },
+      {
+        text: 'Github',
+        link: 'https://github.com/vrmaxin'
+      },
+      {
+        text: '音视频',
+        items: [
+          { text: 'Adobe Audition', link: '/' },
+          { text: 'Adobe Premiere', link: '/' }
+        ]
       },
       // {
-      //   text: 'Languages',
-      //   items: [
-      //     { text: 'Chinese', link: '/language/chinese' },
-      //     { text: 'Japanese', link: '/language/japanese' }
+      //   text: '音视频',
+      //   items: [{
+      //       text: 'Adobe Audition',
+      //       items: [{
+      //           text: 'Home',
+      //           link: '/'
+      //         },
+      //         {
+      //           text: 'Guide',
+      //           link: '/guide/'
+      //         }
+      //       ]
+      //     },
+      //     {
+      //       text: 'Adobe Premiere',
+      //       items: [{
+      //           text: 'Home',
+      //           link: '/'
+      //         },
+      //         {
+      //           text: 'Guide',
+      //           link: '/guide/'
+      //         }
+      //       ]
+      //     }
       //   ]
-      // },
-      {
-        text: 'Languages',
-        items: [{
-            text: 'Group1',
-            items: [{
-                text: 'Home',
-                link: '/'
-              },
-              {
-                text: 'Guide',
-                link: '/guide/'
-              }
-            ]
-          },
-          {
-            text: 'Group2',
-            items: [{
-                text: 'Home',
-                link: '/'
-              },
-              {
-                text: 'Guide',
-                link: '/guide/'
-              }
-            ]
-          }
-        ]
-      }
+      // }
     ],
     displayAllHeaders: true,
     // sidebar: [
