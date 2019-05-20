@@ -1,8 +1,8 @@
 ---
 home: true
 # heroImage: /hero.png
-actionText: 了解我 →
-actionLink: /zh/guide/
+actionText: 了解我  →
+actionLink: /about/
 features:
 - title: 计算机
   details: 作为自己的专业和职业领域，我会记录一些这方面的经验和积累。
