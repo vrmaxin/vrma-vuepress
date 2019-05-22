@@ -1,4 +1,5 @@
 ---
+navbar: false
 sidebar: auto
 ---
 
@@ -12,7 +13,7 @@ sidebar: auto
 
 **中文名**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 沐耳道  
 **英文名**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MultiTrack  
-**出道时间**&nbsp;&nbsp; 2019 年  
+**成团时间**&nbsp;&nbsp; 2019 年  
 **代表作品**&nbsp;&nbsp; 鼓舞  
 **成员人数**&nbsp;&nbsp; 11
 
@@ -31,14 +32,12 @@ sidebar: auto
 
 ## 成员资料
 
-按声部的微信顺序
-
 ### ^^ ϵ ( o ♪ y
 
 <img src="./images/xm.jpg" width="100" style="margin-top:10px;">
 
 **姓名**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ^^ ϵ ( o ♪ y  
-**英文名**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Melody  
+**别名**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Melody  
 **生日**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2019 年  
 **特长**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
 **团内担当**&nbsp;&nbsp; 女高音
@@ -48,7 +47,7 @@ sidebar: auto
 <img src="./images/my.jpg" width="100" style="margin-top:10px;">
 
 **姓名**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; M.Y.瞄葉  
-**英文名**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 妙  
+**别名**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 妙  
 **生日**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2019 年  
 **特长**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
 **团内担当**&nbsp;&nbsp; 女高音
@@ -58,7 +57,7 @@ sidebar: auto
 <img src="./images/xy.jpg" width="100" style="margin-top:10px;">
 
 **姓名**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 夏洋兒  
-**英文名**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
+**别名**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
 **生日**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2019 年  
 **特长**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
 **团内担当**&nbsp;&nbsp; 女高音
@@ -68,7 +67,7 @@ sidebar: auto
 <img src="./images/xl.jpg" width="100" style="margin-top:10px;">
 
 **姓名**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 雪玲  
-**英文名**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 龙  
+**别名**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 龙  
 **生日**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2019 年  
 **特长**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
 **团内担当**&nbsp;&nbsp; 女高音
@@ -78,7 +77,7 @@ sidebar: auto
 <img src="./images/jx.jpg" width="100" style="margin-top:10px;">
 
 **姓名**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Jx  
-**英文名**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
+**别名**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
 **生日**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2019 年  
 **特长**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
 **团内担当**&nbsp;&nbsp; 男高音
@@ -88,7 +87,7 @@ sidebar: auto
 <img src="./images/hr.jpg" width="100" style="margin-top:10px;">
 
 **姓名**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hugh.X  
-**英文名**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;富贵  
+**别名**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;富贵  
 **生日**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2019 年  
 **特长**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
 **团内担当**&nbsp;&nbsp; 男高音
@@ -98,7 +97,7 @@ sidebar: auto
 <img src="./images/hs.jpg" width="100" style="margin-top:10px;">
 
 **姓名**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 夜风  
-**英文名**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
+**别名**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
 **生日**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2019 年  
 **特长**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
 **团内担当**&nbsp;&nbsp; 男高音
@@ -108,7 +107,7 @@ sidebar: auto
 <img src="./images/zx.jpg" width="100" style="margin-top:10px;">
 
 **姓名**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 夜猫  
-**英文名**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;老赵  
+**别名**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;老赵  
 **生日**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2019 年  
 **特长**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
 **团内担当**&nbsp;&nbsp; 男中音
@@ -118,7 +117,7 @@ sidebar: auto
 <img src="./images/kx.jpg" width="100" style="margin-top:10px;">
 
 **姓名**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; bongxin  
-**英文名**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;vrmaxin  
+**别名**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;vrmaxin  
 **生日**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2019 年  
 **特长**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
 **团内担当**&nbsp;&nbsp; 男低音
@@ -128,7 +127,7 @@ sidebar: auto
 <img src="./images/jm.jpg" width="100" style="margin-top:10px;">
 
 **姓名**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 空城  
-**英文名**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;小明  
+**别名**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;小明  
 **生日**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2019 年  
 **特长**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
 **团内担当**&nbsp;&nbsp; 男低音
@@ -138,7 +137,7 @@ sidebar: auto
 <img src="./images/yl.jpg" width="100" style="margin-top:10px;">
 
 **姓名**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 漆得隆冬强  
-**英文名**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Share  
+**别名**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Share  
 **生日**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2019 年  
 **特长**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
 **团内担当**&nbsp;&nbsp; 男高音 Vocal Percussion

@@ -1,6 +1,6 @@
 ---
 home: true
-# heroImage: /hero.png
+heroImage: /hero.png
 actionText: 了解我  →
 actionLink: /about/
 features:

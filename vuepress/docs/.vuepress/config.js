@@ -1,14 +1,14 @@
 // .vuepress/config.js
 module.exports = {
   base: '/',
-  title: 'Vrma Xin',
+  title: 'vrmaxin',
   description: '这是一个属于我的一个空间',
   head: [
     [
       'link',
       {
         rel: 'icon',
-        href: '/favicon.ico'
+        href: '/xin.png'
       }
     ]
   ],
@@ -61,7 +61,16 @@ module.exports = {
       },
       {
         text: '阿卡贝拉',
-        link: '/mlt/'
+        items: [
+          {
+            text: '沐耳道',
+            link: '/acappella/mlt/'
+          },
+          {
+            text: '歌曲',
+            link: '/acappella/song/'
+          }
+        ]
       },
       {
         text: '音视频',
