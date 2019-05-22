@@ -9,3 +9,58 @@ $codeBgColor = #282c34
     // background-color: green
   }
 }
+
+
+.theme-container.home-class{
+  .navbar{
+    background-color: #96B395
+
+    .nav-links{
+      a:hover{
+        color:#fff
+      }
+      a.router-link-active{
+        color:#fff
+      }
+    }
+
+    .links{
+      background-color: #96B395
+      a.nav-link{
+        color:#fff;
+      }
+      a.router-link-active{
+        color:#fff;
+      }
+    }
+    .home-link{
+      .site-name{
+        color:#fff;
+      }
+    }
+
+    .nav-item{
+      .dropdown-wrapper{
+        .nav-dropdown{
+          background-color: #96B395
+        .dropdown-item h4{
+          color:#fff;
+        }
+        .dropdown-title{
+          .title{
+            color:#fff;
+          }
+        }
+      }
+    }
+  }
+
+  @media (min-width: 719px){
+    .nav-item > a:not(.external):hover, .nav-item > a:not(.external).router-link-active {
+      border-bottom: 2px solid #fff;
+    }
+    .dropdown-wrapper .dropdown-title .arrow {
+      border-top: 6px solid #fff;
+    }
+  }
+}

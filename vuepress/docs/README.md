@@ -11,4 +11,6 @@ features:
 - title: 音视频
   details: 作为辅助阿卡贝拉后期工作的工具，我会把一些成果展现出来。
 footer: MIT Licensed | Copyright © 2019-present Vrma Xin
+
+pageClass: home-class
 ---
