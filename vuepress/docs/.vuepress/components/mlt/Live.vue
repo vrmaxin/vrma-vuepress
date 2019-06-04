@@ -8,7 +8,8 @@
                 frameborder=0
                 allowfullscreen></iframe> -->
         <video width="200"
-               src="/hallelujah.mp4"
+               poster="/mlt/cover.png"
+               src="/mlt/hallelujah.mp4"
                controls></video>
       </div>
     </div>
