@@ -64,11 +64,11 @@ module.exports = {
         items: [
           {
             text: '沐耳道',
-            link: '/acappella/mlt/'
+            link: '/acapella/mlt/'
           },
           {
             text: '歌曲',
-            link: '/acappella/song/'
+            link: '/acapella/song/'
           }
         ]
       },
