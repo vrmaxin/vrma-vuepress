@@ -1,6 +1,6 @@
 ---
-navbar: false
-sidebar: auto
+# navbar: false
+# sidebar: false
 ---
 
 <Song/>
