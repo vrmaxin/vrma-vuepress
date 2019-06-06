@@ -1,4 +1,3 @@
-// .vuepress/config.js
 module.exports = {
   base: '/',
   title: 'vrmaxin',
@@ -13,8 +12,6 @@ module.exports = {
     ]
   ],
   themeConfig: {
-    // 导航栏
-    // navbar: false, // 禁用导航栏
     nav: [
       {
         text: '首页',
@@ -108,71 +105,7 @@ module.exports = {
         link: 'https://github.com/vrmaxin'
       }
     ],
-    // displayAllHeaders: true,
-    // activeHeaderLinks: false,
-    // sidebar: 'auto',
     sidebarDepth: 2,
-    // sidebar: [
-    //   ['/page-b/', 'Explicit link text'],
-    //   {
-    //     title: 'HTML',
-    //     collapsable: true,
-    //     children: [
-    //       ['/programming/html', 'HTML'],
-    //       {
-    //         title: 'HTML5',
-    //         collapsable: true,
-    //         children: [
-    //           ['/programming/html5', 'ass']
-    //         ]
-    //       },
-    //     ]
-    //   },
-    //   {
-    //     title: 'CSS',
-    //     collapsable: true,
-    //     children: [
-    //       ['/programming/css', 'CSS']
-    //     ]
-    //   },
-
-    //   {
-    //     title: 'hahah',
-    //     collapsable: false,
-    //     children: [
-    //       '/',
-    //       ['/page-a/', 'pageA']
-    //     ]
-    //   }
-    // ],
-
-    // 不同的页面组来显示不同的侧边栏
-    // sidebar: {
-    //   '/foo/': [
-    //     '' /* /foo/ */,
-    //     'one' /* /foo/one.html */,
-    //     'two' /* /foo/two.html */
-    //   ],
-
-    //   '/bar/': [
-    //     '' /* /bar/ */,
-    //     'three' /* /bar/three.html */,
-    //     'four' /* /bar/four.html */
-    //   ],
-
-    //   // fallback
-    //   '/': [
-    //     '' /* / */,
-    //     'contact' /* /contact.html */,
-    //     'about' /* /about.html */
-    //   ],
-
-    //   '/mlt/': ['']
-    // },
-
-    // 搜索框
-    // search: false,
-    // searchMaxSuggestions: 2,
     sidebar: {
       '/acapella/song/score/': [
         {
@@ -189,7 +122,6 @@ module.exports = {
     },
 
     lastUpdated: '日期', // string | boolean
-
     updatePopup: true
   },
 
