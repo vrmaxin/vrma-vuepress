@@ -1,14 +1,13 @@
 <template>
   <div id="mltLive">
-
     <div class="
            box">
       <section v-for="(song,index) in songs"
                :key="index">
 
         <header>
-          <h2 style="float:Lleft;">{{song.name}}<a style="float:right;font-size:14px;line-height:35px;"
-               href="./score/">歌谱</a></h2>
+          <h2 style="float:left;">{{song.name}}<a style="float:right;font-size:14px;line-height:35px;"
+               href="./Pdf/">歌谱</a></h2>
         </header>
         <!-- 引用视频网站视频 -->
         <!-- <iframe height=184

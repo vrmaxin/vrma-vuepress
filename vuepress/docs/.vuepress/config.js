@@ -64,11 +64,25 @@ module.exports = {
         items: [
           {
             text: '沐耳道',
-            link: '/acapella/mlt/'
+            items: [
+              {
+                text: '简介',
+                link: '/acapella/mlt/intro/'
+              },
+              {
+                text: '视频',
+                link: '/acapella/mlt/video/'
+              }
+            ]
           },
           {
-            text: '歌曲',
-            link: '/acapella/song/'
+            text: '歌谱',
+            items: [
+              {
+                text: '歌谱',
+                link: '/acapella/score/'
+              }
+            ]
           }
         ]
       },
@@ -159,6 +173,20 @@ module.exports = {
     // 搜索框
     // search: false,
     // searchMaxSuggestions: 2,
+    sidebar: {
+      '/acapella/song/score/': [
+        {
+          title: '布局类组件',
+          collapsable: true,
+          children: ['base/test1', 'base/test2', 'base/test3', 'base/test4']
+        },
+        {
+          title: '可视化组件',
+          collapsable: true,
+          children: []
+        }
+      ]
+    },
 
     lastUpdated: '日期', // string | boolean
 
