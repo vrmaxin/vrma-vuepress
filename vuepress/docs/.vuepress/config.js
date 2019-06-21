@@ -1,7 +1,7 @@
 module.exports = {
   base: '/',
-  title: 'vrmaxin',
-  description: '这是一个属于我的一个空间',
+  title: '6个内核',
+  description: 'Different Me',
   head: [
     [
       'link',
